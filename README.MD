@@ -1,13 +1,13 @@
 # Simple JavaScript Test - Advanced
 
-WBS Training AG - Javascript project (10.09.2021)
+WBS Training AG - Javascript test (10.09.2021)
 
 ## Description
 
-* JSON, create HTML elements, RegEx, DOM
+* JSON, create HTML elements, RegEx, DOM, event listener, Ajax
 * form validation
 * Bootstrap 5
-* requirements + doku + MySQL dump in ./bausteinpruefung/
+* requirements ./JavaScript_aufbau_10.09.2021_vorgaben/
 
 ### Dependencies
 
