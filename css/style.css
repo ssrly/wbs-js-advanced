@@ -1,0 +1,40 @@
+body {
+    font-family: "Lucida Sans- Unicode", Helvetica, sans-serif;
+    background-color: #717581;
+}
+
+#slider {
+    width: 600px;
+}
+
+#slider .top {
+    position: relative;
+    animation: animatetop 1.8s;
+}
+
+@keyframes animatetop {
+    from {
+        top: -3em;
+        opacity: 0;
+    }
+    to {
+        top: 0;
+        opacity: 1;
+    }
+}
+
+.bg-lightblue {
+    background-color: lightblue;
+}
+
+.bg-lightgray {
+    background-color: lightgray;
+}
+
+.bg-success-light {
+    background-color: rgba(65, 206, 65, 0.25);
+}
+
+.bg-danger-light {
+    background-color: rgba(217, 83, 79, 0.25);
+}
